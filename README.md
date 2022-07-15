@@ -1,2 +1,1 @@
-# patika-html-odev
-patika-html-odev
+#patika odevidir asil projeler henüz yüklenmemistir
